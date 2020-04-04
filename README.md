@@ -1,4 +1,4 @@
-# Default Python config files
+# Python config files
 
 To be used with the following tools:
 
